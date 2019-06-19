@@ -1,9 +1,9 @@
 # Steps for running the project
 
-1. Just run this spring boot application.
+1. Just run this command  **mvn spring-boot:run** to start your spring boot application.
 
 ## Setting Up Database
-1. Go to H2 database url to check that it's up or not.
+1. Go to H2 database url **http://localhost:8085/h2-console/login.jsp.** to check that it's up or not.
 
 ### Configuration  
    http://localhost:8085/h2-console <br/>
