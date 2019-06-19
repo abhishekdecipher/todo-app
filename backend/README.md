@@ -12,7 +12,7 @@
    password = password <br/>
    
 ## Todo Operations:
-
+TO Check Rest Api's End Use Postmen Client and hit the end points.   
 ### Adding Todo
 1. Now you can create new data in database via API's
 2. just hit create todo API
